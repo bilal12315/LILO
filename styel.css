@@ -1,0 +1,242 @@
+
+.btn-dark{
+    height: 60px;
+    width:510px;
+}
+
+.btn-danger{
+    height: 60px;
+    width:510px;
+}
+
+.btn-success{
+    height: 60px;
+    width:510px;
+}
+.col-6{
+    height: 25rem;
+}
+
+.col-md-6{
+    height: 100px;
+}
+
+.card{
+    border: none;
+    width: 31rem;
+}
+
+
+.col-md-12{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-dark{
+    height: 60px;
+    width:390px;
+}
+
+.btn-danger{
+    height: 60px;
+    width:390px;
+}
+
+.btn-success{
+    height: 60px;
+    width:390px;
+}
+.col-6{
+    height: 25rem;
+}
+
+.col-md-6{
+    height: 100px;
+    margin-left: -40px;
+}
+
+.card{
+    border: none;
+    width: 21rem;
+}
+
+
+.col-md-12{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-fluid{
+height: 200px;
+width: 350px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card{
+margin-left: 5rem;
+width: 38rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img-fluid{
+display: flex;    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.col-7{
+margin-left: 35em;
+
+
+}
+
+
+
+
+
+
+.col-md-8{
+margin: auto;
+margin-left: 35em;
+
+
+
+}
+
+
+
+
+.img-thumbnail{
+margin: auto;
+height: 600px;
+width: 600px;
+font-size: 5px;
+
+}
+
+
